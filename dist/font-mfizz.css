@@ -50,6 +50,7 @@
 .icon-c:before,
 .icon-cassandra:before,
 .icon-centos:before,
+.icon-rocky:before,
 .icon-clojure:before,
 .icon-codeigniter:before,
 .icon-codepen:before,
@@ -201,6 +202,7 @@
 .icon-c:before { content: "\f10d"; }
 .icon-cassandra:before { content: "\f10e"; }
 .icon-centos:before { content: "\f10f"; }
+.icon-rocky:before { content: "\f10f"; }
 .icon-clojure:before { content: "\f110"; }
 .icon-codeigniter:before { content: "\f111"; }
 .icon-codepen:before { content: "\f112"; }
